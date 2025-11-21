@@ -23,4 +23,8 @@ public class Constants {
         public static double FOWARD_SPEED = 0.25;
         public static double RIGHT_SPEED = 0.25;
     }
+
+    public final class ArmContants {
+        public static final int ARM_MOTOR_1 = 1;
+    }
 }
